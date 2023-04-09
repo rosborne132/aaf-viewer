@@ -1,0 +1,3 @@
+opentimelineio
+pyside2
+pyaaf2
