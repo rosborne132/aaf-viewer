@@ -1,19 +1,19 @@
-# AAF Viewer
-AAF Viewer is a Python-based tool that allows users to view and interact with AAF (Advanced Authoring Format) files using OpenTimelineIO, PySide, and pyaaf2.
+# SG Viewer
+SG Viewer is a Python-based tool that allows users to view and interact with the ShotGrid Python Api.
 
 ## Prerequisites
 - Python 3.6 or higher (https://www.python.org/downloads/)
 - Git (https://git-scm.com/downloads)
 
 ## Getting Started
-Follow these steps to set up and run the AAF Viewer project on your local machine:
+Follow these steps to set up and run the SG Viewer project on your local machine:
 
 1. Clone the repository
 Clone the repository from GitHub to your local machine:
 
 ```bash
-git clone https://github.com/rosborne132/aaf-viewer.git
-cd aaf-viewer
+git clone https://github.com/rosborne132/sg-viewer.git
+cd sg-viewer
 ```
 
 2. Set up the virtual environment
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ```
 
 4. Run the application
-Execute the main.py script to start the AAF Viewer:
+Execute the main.py script to start the SG Viewer:
 
 ```bash
 python3 main.py
@@ -54,7 +54,7 @@ deactivate
 ```
 
 ## Contributing
-We welcome contributions to the AAF Viewer project! Please follow these steps to contribute:
+We welcome contributions to the SG Viewer project! Please follow these steps to contribute:
 
 - Fork the repository on GitHub.
 - Clone your fork to your local machine and follow the "Getting Started" steps above to set up the development environment.

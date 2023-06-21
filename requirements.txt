@@ -1,3 +1,4 @@
 opentimelineio
 pyside2
 pyaaf2
+git+https://github.com/shotgunsoftware/python-api.git
